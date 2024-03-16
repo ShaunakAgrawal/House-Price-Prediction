@@ -1,4 +1,4 @@
-This directory includes a few sample datasets to get you started.
+Project made as mini project for ML course 
 
 *   `california_housing_data*.csv` is California housing data from the 1990 US
     Census; more information is available at:
